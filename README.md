@@ -4,7 +4,7 @@ Overview
 =========
 Policy Gradients is one of the Reinforcement Learning Algorithm. In this method, a simple neural-network learns a policy for picking actions by adjusting it's weights through gradient descent using feedback from our environment.
 
-In this experiment we are going to consider 4 bandits and find an optimal policy to get maximum rewards.
+In this experiment we are going to consider 4 armed bandit and find an optimal policy to get maximum rewards.
 
 Dependencies
 ============
